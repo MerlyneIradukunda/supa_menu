@@ -1,0 +1,201 @@
+{
+    "content": [
+      {
+        "createdAt": "2022-05-27T07:48:08.473Z",
+        "createdBy": 0,
+       
+        "customer": {
+          "activationCode": "string",
+          "createdAt": "2022-05-27T07:48:08.473Z",
+          "defaultPic": {
+            "name": "string",
+            "url": "string"
+          },
+          "email": "string",
+          "firstName": "string",
+          "fullName": "string",
+          "id": 0,
+          "lastName": "string",
+          "mobile": "string",
+          "profiPicturePath": "string",
+          "profileCompleteStatus": 0,
+          "regChannel": "USSD",
+          "serviceProvider": {
+            "address": "string",
+            "closingHour": "string",
+            "completeName": "string",
+            "createdAt": "2022-05-27T07:48:08.473Z",
+            "createdBy": 0,
+            "customerBookTable": true,
+            "defaultPic": {
+              "name": "string",
+              "url": "string"
+            },
+            "defaultPicture": "string",
+            "email": "string",
+            "id": 0,
+            "name": "string",
+            "openingHour": "string",
+            "ownerEmail": "string",
+            "ownerNames": "string",
+            "ownerPhoneNumber": "string",
+            "phone": "string",
+            "serviceCategory": {
+              "createdAt": "2022-05-27T07:48:08.473Z",
+              "createdBy": 0,
+              "defaultPic": {
+                "name": "string",
+                "url": "string"
+              },
+              "defaultPicture": "string",
+              "displayPriority": 0,
+              "id": 0,
+              "name": "string",
+              "status": "PENDING",
+              "updatedAt": "2022-05-27T07:48:08.473Z",
+              "updatedBy": 0
+            },
+            "status": "PENDING",
+            "updatedAt": "2022-05-27T07:48:08.473Z",
+            "updatedBy": 0
+          },
+          "status": "PENDING",
+          "updatedAt": "2022-05-27T07:48:08.473Z",
+          "username": "string"
+        },
+       
+        "dateTime": "2022-05-27T07:48:08.473Z",
+        "id": 0,
+      
+        "numberOfProducts": 0,
+     
+        "orderDetails": [
+          {
+            "createdAt": "2022-05-27T07:48:08.473Z",
+            "createdBy": 0,
+            "id": 0,
+            "item": {
+              "createdAt": "2022-05-27T07:48:08.473Z",
+              "createdBy": 0,
+              "defaultPicture": {
+                "name": "string",
+                "url": "string"
+              },
+              "defaultPicturePath": "string",
+              "description": "string",
+              "displayPriority": 0,
+              "fourthPicture": {
+                "name": "string",
+                "url": "string"
+              },
+              "fourthPicturePath": "string",
+              "id": 0,
+              "name": "string",
+              "secondPicture": {
+                "name": "string",
+                "url": "string"
+              },
+              "secondPicturePath": "string",
+              "status": "PENDING",
+              "thirdPicture": {
+                "name": "string",
+                "url": "string"
+              },
+              "thirdPicturePath": "string",
+              "unitPrice": 0,
+              "updatedAt": "2022-05-27T07:48:08.473Z",
+              "updatedBy": 0
+            },
+            "quantity": 0,
+            "totalPrice": 0,
+            "updatedAt": "2022-05-27T07:48:08.473Z",
+            "updatedBy": 0
+          }
+        ],
+     
+        "orderType": "PICK_AND_GO",
+        "seat": {
+          "createdAt": "2022-05-27T07:48:08.473Z",
+          "createdBy": 0,
+          "id": 0,
+          "occupiedStatus": "FREE",
+          "seatNumber": "string",
+          "status": "PENDING",
+          "updatedAt": "2022-05-27T07:48:08.473Z",
+          "updatedBy": 0
+        },
+       
+        "serviceProvider": {
+          "address": "string",
+          "closingHour": "string",
+          "completeName": "string",
+          "createdAt": "2022-05-27T07:48:08.473Z",
+          "createdBy": 0,
+          "customerBookTable": true,
+          "defaultPic": {
+            "name": "string",
+            "url": "string"
+          },
+          "defaultPicture": "string",
+          "email": "string",
+          "id": 0,
+          "name": "string",
+          "openingHour": "string",
+          "ownerEmail": "string",
+          "ownerNames": "string",
+          "ownerPhoneNumber": "string",
+          "phone": "string",
+          "serviceCategory": {
+            "createdAt": "2022-05-27T07:48:08.473Z",
+            "createdBy": 0,
+            "defaultPic": {
+              "name": "string",
+              "url": "string"
+            },
+            "defaultPicture": "string",
+            "displayPriority": 0,
+            "id": 0,
+            "name": "string",
+            "status": "PENDING",
+            "updatedAt": "2022-05-27T07:48:08.473Z",
+            "updatedBy": 0
+          },
+          "status": "PENDING",
+          "updatedAt": "2022-05-27T07:48:08.473Z",
+          "updatedBy": 0
+        },
+     
+        "status": "ORDERING",
+        "totalOrderPrice": 0,
+        "updatedAt": "2022-05-27T07:48:08.473Z",
+        "updatedBy": 0
+      }
+    ],
+
+
+    "empty": true,
+    "first": true,
+    "last": true,
+    "number": 0,
+    "numberOfElements": 0,
+    "pageable": {
+      "offset": 0,
+      "pageNumber": 0,
+      "pageSize": 0,
+      "paged": true,
+      "sort": {
+        "empty": true,
+        "sorted": true,
+        "unsorted": true
+      },
+      "unpaged": true
+    },
+    "size": 0,
+    "sort": {
+      "empty": true,
+      "sorted": true,
+      "unsorted": true
+    },
+    "totalElements": 0,
+    "totalPages": 0
+  }
